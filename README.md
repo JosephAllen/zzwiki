@@ -1,5 +1,3 @@
 # zzwiki
 
-Testing a Wiki
-
-[[PageOne]]
+[Wiki](/wiki)
