@@ -1,3 +1,3 @@
 # zzwiki
 
-[Wiki](/wiki)
+[Wiki](./wiki)
